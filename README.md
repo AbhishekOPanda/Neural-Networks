@@ -1,1 +1,2 @@
 # Neural-Networks
+Develop a Neural Network (NN) model to predict class labels for the Iris data set. Split the data into training, validation and testing set with the ratio of 0.8, 0.1 and 0.1. Train the model on the training set, select the best  model  based  on  the  validation  set,  and  test  your  model  on  the  testing  set.  Report  your  training, validation and testing accuracy. You can use packages such as Tensorflow or Pytorch. 
